@@ -735,6 +735,7 @@ color: #A6A6A6;
         .footer_links{
           margin-top: 50px;
           text-align: left;
+          align-items: start;
           flex-direction: column;
           min-width: 100%;
           flex-wrap: wrap;
@@ -849,6 +850,9 @@ padding: 10px;
       width:150%;
     }
 
+    .footer_links{
+      align-items: start;
+    }
     .copyright,.terms{
       font-size: 15px;
     }
