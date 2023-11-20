@@ -593,6 +593,7 @@ color: #A6A6A6;
     }
     .hero-main{
       width: 90%;
+      padding: 0;
     }
     .hero_header{
       font-size: 40px;
